@@ -1,0 +1,1 @@
+Loader built using CSS. It looks like its name, 'Flipping Squares'.
